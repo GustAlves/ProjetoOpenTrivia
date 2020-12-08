@@ -6,3 +6,7 @@ Testes automatizados no site OpenTrivia
 - Validações de erro em cadastro de questões
 - Validações tela de consulta
 
+# Linguagem:
+- Java
+- Gherkin
+- Selenium
